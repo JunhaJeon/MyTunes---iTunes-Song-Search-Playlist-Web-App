@@ -1,0 +1,54 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Button Styles */
+button {
+    cursor: pointer;
+    border: none;
+    padding: 8px 12px;
+    margin: 5px;
+    font-size: 16px;
+}
+
+.add-btn {
+    background-color: green;
+    color: white;
+}
+
+.remove-btn {
+    background-color: red;
+    color: white;
+}
+
+.move-btn {
+    background-color: gray;
+    color: white;
+}
