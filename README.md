@@ -16,7 +16,7 @@ Dynamic rendering using JavaScript and DOM manipulation
 Clean Express.js server structure with routing and static file serving
 
 # Files
-'''
+```
 iTunes/
 ├── public/
 │   ├── mytunes.html
@@ -24,7 +24,7 @@ iTunes/
 │   └── client.js
 ├── server.js
 └──package.json
-'''
+```
 # Install Command:
 npm install
 
