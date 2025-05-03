@@ -19,9 +19,12 @@ Clean Express.js server structure with routing and static file serving
 ```
 iTunes/
 ├── public/
-│   ├── mytunes.html
+│   ├── client.js
 │   ├── style.css
-│   └── client.js
+├── view/
+|   └── index.html
+│    
+|
 ├── server.js
 └──package.json
 ```
